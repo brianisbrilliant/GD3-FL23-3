@@ -5,7 +5,7 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "TDxUnrealEditor",
+			"Name": "ActorPalette",
 			"Enabled": true
 		}
 	]
