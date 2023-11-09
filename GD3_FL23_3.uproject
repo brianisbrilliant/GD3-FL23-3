@@ -5,7 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "TDxUnrealEditor",
+			"Name": "ActorPalette",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
 			"Enabled": true
 		}
 	]
